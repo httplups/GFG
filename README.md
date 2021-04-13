@@ -1,5 +1,5 @@
 # GFG
-Lexical and Syntactic analysis of a Context-Free Grammar.
+Lexical and Syntactic analysis of a Context-Free Grammar used to study.
 
 
 The objective of this project is to implement a lexer and a parser for the uC language.
